@@ -1,0 +1,9 @@
+{
+  "dengue_hyderabad": {
+    "disease_sh": {"cases": 2450, "deaths": 12, "updated": "2026-03-17"},
+    "who": {"incidence": 34.2, "trend": "rising"},
+    "cdc": {"outbreaks": 3, "severity": "high"},
+    "healthmap": ["Alert: Cluster in Secunderabad", "Alert: Hospital surge"],
+    "promed": ["India: Dengue cases up 28% YoY"]
+  }
+}
